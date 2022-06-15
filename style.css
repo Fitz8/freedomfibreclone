@@ -64,3 +64,13 @@ body {
   transform: translate(-50%, -50%);
   color:rgb(237, 4, 122);
 }
+
+#statement {
+    font-family: 'Libre Baskerville', serif;
+    color: rgb(41,4,56);
+    font-size: 28px;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    padding-left: 21%;
+    padding-right: 25%;
+}
