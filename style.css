@@ -142,3 +142,22 @@ z-index: 1;
 #view-more-purple {
     background-color: rgb(237, 4, 122);
 }
+
+.news-container {
+    display: flex;
+    justify-content: center;
+    margin-right: 25%;
+}
+.news-title h1 {
+    font-family: 'Libre Baskerville', serif;
+    font-size: 60px;
+    font-weight: 900;
+    color: rgb(77,44,121);
+    margin-bottom: 5px;
+}
+
+.news-title h2 {
+    font-family: 'Ubuntu', sans-serif;
+    color:rgb(237, 4, 122);
+    margin-top: 0;
+}
