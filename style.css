@@ -48,6 +48,7 @@ body {
 .banner-container h1 {
   font-size: 75px;
   color: white;
+  font-family: 'Libre Baskerville', serif;
   line-height: 70px;
   position: absolute;
   top: 39%;
@@ -82,4 +83,52 @@ body {
     width: 50%;
     flex-shrink: 0;
     height: 650px;
+}
+
+.info-box.info-text {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(237, 4, 122);
+}
+
+.info-box.info-text.right {
+    background-color: rgb(237, 4, 122);
+}
+
+.info-box.info-text.left {
+    background-color: rgb(78, 44, 121);
+}
+
+.infoheader {
+  font-size: 50px;
+  color: white;
+  font-family: 'Libre Baskerville', serif;
+}
+.infoparagraph {
+    font-family: 'Libre Baskerville', serif;
+    font-weight: lighter;
+    font-size: 18px;
+    color: white;
+}
+
+.text-container {
+    width: 55%
+}
+.view-more {
+    font-family: 'Libre Baskerville', serif;
+    display: inline-block;
+    color: white;
+    margin-top: 10px;
+    background-color: rgb(77,44,121);
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    font-size: 15px;
+}
+
+#view-more-purple {
+    background-color: rgb(237, 4, 122);
 }
