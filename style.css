@@ -2,11 +2,20 @@ body {
     height: 100%;
     margin: 0px;
 }
+.fixed-position {
+position: fixed;
+top: 0;
+left: 0;
+margin: auto;
+width: 100%;
+z-index: 1;
+}
 
 .header-container {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    background-color: white;
 }
 .logo {
     width: 154px;
