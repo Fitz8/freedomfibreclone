@@ -37,10 +37,8 @@ body {
     margin: 18px;
 }
 .banner-container {
-    margin: 0px;
     position: relative;
     text-align: center;
-    color: white;
 }
 
 .bannerpic {
@@ -49,6 +47,7 @@ body {
 }
 .banner-container h1 {
   font-size: 75px;
+  color: white;
   line-height: 70px;
   position: absolute;
   top: 39%;
