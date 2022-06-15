@@ -189,7 +189,7 @@ z-index: 1;
 .newsCard h2 {
     font-family: 'Libre Baskerville', serif;
     color:rgb(237, 4, 122);
-    font-size: 20px;
+    font-size: 21px;
     padding: 5%;
 }
 
@@ -204,8 +204,4 @@ z-index: 1;
     margin: auto;
     margin-bottom: 5%;
     margin-top: 4%;
-
-}
-#extra {
-    margin-top: 13.8%;
 }
