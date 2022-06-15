@@ -205,3 +205,7 @@ z-index: 1;
     margin-bottom: 5%;
     margin-top: 4%;
 }
+
+.careerCard {
+    background-image: url('./images/showingoff.jpg');
+}
