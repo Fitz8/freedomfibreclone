@@ -581,6 +581,7 @@ z-index: 1;
 #privacy {
     text-decoration: none;
     cursor: default;
+    margin-top: 30px;
 }
 
 #copyright {
