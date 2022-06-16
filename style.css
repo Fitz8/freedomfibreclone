@@ -36,6 +36,7 @@ z-index: 1;
 .social {
     height: 20px;
     margin: 1px;
+    cursor: pointer;
 }
 
 .navOption {
@@ -261,6 +262,9 @@ z-index: 1;
     margin: auto;
     margin-bottom: 5%;
     margin-top: 4%;
+    border: solid;
+    border-color: black;
+    border-width: 1px;
 }
 
 .career-container {
@@ -294,7 +298,6 @@ z-index: 1;
     color: white;
     margin-left: 20px;
     margin-right: 20px;
-    /* text-align: center; */
 }
 
 .careerCard p {
@@ -303,6 +306,11 @@ z-index: 1;
     font-size: 12px;
     margin-top: 30px;
     margin-left: 30px;
+}
+
+.careerCard h2:hover {
+    color:rgb(237, 4, 122);
+    cursor: pointer;
 }
 
 .career-text h1 {
@@ -331,6 +339,9 @@ z-index: 1;
 #view-more-careers {
     margin-top: 30px;
     margin-bottom: 50px;
+    border: solid;
+    border-color: black;
+    border-width: 1px;
 }
 
 #finance {
@@ -441,6 +452,12 @@ z-index: 1;
     border-style: none;
     background-color: rgb(237, 4, 122);
     color: white;
+    transition: 0.3s;
+}
+
+.submit:hover {
+    background-color: rgb(77,44,121);
+    cursor: pointer;
 }
 
 
@@ -532,6 +549,7 @@ z-index: 1;
     color:rgb(237, 4, 122);
     text-decoration: underline;
     font-size: 14px;
+    cursor: pointer;
 }
 
 .col2 h3 {
@@ -541,6 +559,7 @@ z-index: 1;
 }
 #underline {
     text-decoration: underline;
+    cursor: pointer;
 }
 
 .col3 h3 {
@@ -548,6 +567,7 @@ z-index: 1;
     color: white;
     font-size: 14px;
     text-decoration: underline;
+    cursor: pointer;
 }
 
 .col3 p {
@@ -555,10 +575,12 @@ z-index: 1;
     color:rgb(237, 4, 122);
     text-decoration: underline;
     font-size: 14px;
+    cursor: pointer;
 }
 
 #privacy {
     text-decoration: none;
+    cursor: default;
 }
 
 #copyright {
@@ -573,6 +595,7 @@ z-index: 1;
     width: 28px;
     height: 28px;
     margin: 3px;
+    cursor: pointer;
 }
 
 .col4-subscribe {
