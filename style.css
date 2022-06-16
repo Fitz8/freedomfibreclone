@@ -45,6 +45,12 @@ z-index: 1;
     color: black;
     margin: 18px;
 }
+
+.navOption:hover {
+    color: rgb(237, 4, 122) !important;
+    cursor: pointer;
+}
+
 .banner-container {
     position: relative;
     text-align: center;
@@ -281,7 +287,7 @@ z-index: 1;
         rgba(77, 44, 121, 0.45),       
         rgba(77, 44, 121, 0.45)
       ),
-    url('images/showingoff.jpg');
+    url('/images/showingoff.jpg');
     background-size: cover;
 }
 
