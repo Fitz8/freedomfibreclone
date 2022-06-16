@@ -281,7 +281,7 @@ z-index: 1;
         rgba(77, 44, 121, 0.45),       
         rgba(77, 44, 121, 0.45)
       ),
-    url('./images/showingoff.jpg');
+    url('images/showingoff.jpg');
     background-size: cover;
 }
 
@@ -290,7 +290,7 @@ z-index: 1;
         rgba(77, 44, 121, 0.45),       
         rgba(77, 44, 121, 0.45)
       ),
-    url('./images/typing.jpg');
+    url('images/typing.jpg');
     background-size: cover;
 }
 
@@ -299,7 +299,7 @@ z-index: 1;
         rgba(77, 44, 121, 0.45),       
         rgba(77, 44, 121, 0.45)
       ),
-    url('./images/teamwork.jpg');
+    url('images/teamwork.jpg');
     background-size: cover;
 }
 
@@ -308,7 +308,7 @@ z-index: 1;
         rgba(77, 44, 121, 0.45),       
         rgba(77, 44, 121, 0.45)
       ),
-    url('./images/twoengineers.jpg');
+    url('images/twoengineers.jpg');
     background-size: cover;
 }
 
@@ -317,7 +317,7 @@ z-index: 1;
         rgba(77, 44, 121, 0.45),       
         rgba(77, 44, 121, 0.45)
       ),
-    url('./images/codingman.jpg');
+    url('images/codingman.jpg');
     background-size: cover;
 }
 
@@ -326,7 +326,7 @@ z-index: 1;
         rgba(77, 44, 121, 0.45),       
         rgba(77, 44, 121, 0.45)
       ),
-    url('./images/maninglasses.jpg');
+    url('images/maninglasses.jpg');
     background-size: cover;
 }
 
