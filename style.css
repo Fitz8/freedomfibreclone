@@ -51,6 +51,37 @@ z-index: 1;
     cursor: pointer;
 }
 
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: white;
+    min-width: 100px;
+    z-index: 1;
+  }
+  
+  .dropdown-content a {
+    font-family: 'Libre Baskerville', serif;
+    font-size: 13px;
+    color: black;
+    padding: 6px 8px;
+    text-decoration: none;
+    display: block;
+  }
+  
+  .dropdown-content a:hover {
+    font-family: 'Libre Baskerville', serif;
+    font-size: 13px;
+    color: black;
+    padding: 6px 8px;
+    text-decoration: none;
+    display: block;
+  }
+  .dropdown-content a:hover {
+    color: rgb(237, 4, 122) !important;
+}
+  
+.dropdown-container:hover .dropdown-content {display: block;}
+
 .banner-container {
     position: relative;
     text-align: center;
