@@ -338,7 +338,7 @@ z-index: 1;
         rgba(77, 44, 121, 0.45),       
         rgba(77, 44, 121, 0.45)
       ),
-    url('/images/showingoff.jpg');
+    url('images/showingoff.jpg');
     background-size: cover;
 }
 
