@@ -333,13 +333,16 @@ z-index: 1;
 .subscribe-container {
     display: flex;
     justify-content: center;
+    background-color: rgb(244,242,246);
 }
 
 .subscribe-content {
     margin-top: 100px;
+    margin-bottom: 100px;
     display: flex;
     justify-content: space-between;
     width: 60%;
+
 }
 
 .subscribe-form {
@@ -353,6 +356,8 @@ z-index: 1;
 .subscribe-form p {
     margin-bottom: 0;
     font-size: 13px;
+    color: rgb(58,24,72);
+    width: 85%;
 }
 
 .email-input {
@@ -361,6 +366,9 @@ z-index: 1;
     padding-bottom: 10px;
     padding-left: 20px;
     width: 60%;
+    border-style: none;
+    color: rgb(125,100,156);
+    margin-bottom: 40px;
 }
 
 .submit {
@@ -368,11 +376,14 @@ z-index: 1;
     font-size: 15px;
     padding-top: 10px;
     padding-bottom: 10px;
-    padding-left: 20px;
-    padding-right: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
     margin-left: 10px;
     border-radius: 0px;
-    width: 30%;
+    width: 25%;
+    border-style: none;
+    background-color: rgb(237, 4, 122);
+    color: white;
 }
 
 
