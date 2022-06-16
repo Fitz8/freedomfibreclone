@@ -245,6 +245,11 @@ z-index: 1;
     padding: 5%;
 }
 
+.hover-purple:hover {
+    color: rgb(77,44,121);
+    cursor: pointer;
+}
+
 .newsCard p {
     font-family: 'Ubuntu', sans-serif;
     padding-left: 5%;
