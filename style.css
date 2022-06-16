@@ -411,3 +411,15 @@ z-index: 1;
     color: black;
     font-size: 24px;
 }
+
+.footer-container {
+    display: flex;
+    justify-content: space-between;
+}
+.footer-left {
+    display: flex;
+}
+
+.footer-right {
+    display: flex;
+}
